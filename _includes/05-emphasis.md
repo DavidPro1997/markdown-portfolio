@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Materia de Aplicaciones Distribuidas ✍️**
+*Una asignatura muy interesante*
+_Esperemos aprender todo lo necesario para la vida profesional_
